@@ -8,7 +8,5 @@
 
 ---
 <p>
-
-  服务运行状态：GithubMirror <a href="https://g.hanyu-zh.xyz"><img src="https://stats.justsong.cn/api/website/?url=https://g.hanyu-zh.xyz/&style=flat&logo=github"/></a>  
-  WebBlog <a href="https://www.hanyu-zh.xyz"><img src="https://stats.justsong.cn/api/website/?url=https://www.hanyu-zh.xyz/&style=flat"/></a>
+  镜像服务运行状态：GithubMirror <a href="https://g.hanyu-zh.xyz"><img src="https://stats.justsong.cn/api/website/?url=https://g.hanyu-zh.xyz/&style=flat&logo=github"/></a>  
 </p>
