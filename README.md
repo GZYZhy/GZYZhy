@@ -27,5 +27,5 @@
 ---
 
 <p>
-  镜像服务运行状态：GithubMirror <a href="https://g.hanyu-zh.xyz"><img src="https://stats.justsong.cn/api/website/?url=https://g.hanyu-zh.xyz/&style=flat&logo=github"/></a>  
+  主站服务运行状态 <a href="https://hanyu-zh.xyz"><img src="https://stats.justsong.cn/api/website/?url=https://hanyu-zh.xyz/&style=flat&logo=github"/></a>  
 </p>
