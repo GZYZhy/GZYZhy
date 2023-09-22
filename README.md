@@ -15,7 +15,7 @@
 	<a href = "https://www.hanyu-zh.xyz">		My Blog</a>					
 </p>
 <p>
-	<a href = "g.hanyu-zh.xyz">		My Gihub Mirror</a>
+	<a href = "https://git.hanyu-zh.xyz">		My Gihub Mirror</a>
 </p>
 
 ---
