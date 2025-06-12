@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">GZYZhy, a senior high student in China.<br><br>Always on my way.</p>
+<p align="left">GZYZhy, a student.<br><br>Always on my way.</p>
 
 ###
 
